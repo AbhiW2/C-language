@@ -1,2 +1,2 @@
 # C-language
-Repository for C language 
+Repository for C Programming codes
